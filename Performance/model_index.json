@@ -1,0 +1,20 @@
+{
+  "diabetes": {
+    "dataset_file": "C:\\Users\\adity\\OneDrive\\Desktop\\UPSC\\datasets\\diabetes.csv",
+    "model_file": "C:\\Users\\adity\\OneDrive\\Desktop\\UPSC\\models\\diabetes_model.joblib",
+    "selected_model": "logistic_regression",
+    "threshold": 0.5
+  },
+  "heart": {
+    "dataset_file": "C:\\Users\\adity\\OneDrive\\Desktop\\UPSC\\datasets\\heart.csv",
+    "model_file": "C:\\Users\\adity\\OneDrive\\Desktop\\UPSC\\models\\heart_model.joblib",
+    "selected_model": "random_forest",
+    "threshold": 0.5
+  },
+  "kidney": {
+    "dataset_file": "C:\\Users\\adity\\OneDrive\\Desktop\\UPSC\\datasets\\kidney.csv",
+    "model_file": "C:\\Users\\adity\\OneDrive\\Desktop\\UPSC\\models\\kidney_model.joblib",
+    "selected_model": "logistic_regression",
+    "threshold": 0.5
+  }
+}

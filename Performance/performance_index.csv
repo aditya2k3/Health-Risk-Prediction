@@ -1,0 +1,4 @@
+disease,model,roc_auc,pr_auc,f1,precision,recall,threshold,tp,tn,fp,fn,n_test,dataset_file,model_file
+diabetes,logistic_regression,0.8116666666666666,0.671616837902238,0.5360824742268041,0.6046511627906976,0.48148148148148145,0.5,26,83,17,28,154,C:\Users\adity\OneDrive\Desktop\UPSC\datasets\diabetes.csv,C:\Users\adity\OneDrive\Desktop\UPSC\models\diabetes_model.joblib
+heart,random_forest,0.9025974025974026,0.9201994437913732,0.8648648648648649,0.7804878048780488,0.9696969696969697,0.5,32,19,9,1,61,C:\Users\adity\OneDrive\Desktop\UPSC\datasets\heart.csv,C:\Users\adity\OneDrive\Desktop\UPSC\models\heart_model.joblib
+kidney,logistic_regression,1.0,1.0,1.0,1.0,1.0,0.5,50,30,0,0,80,C:\Users\adity\OneDrive\Desktop\UPSC\datasets\kidney.csv,C:\Users\adity\OneDrive\Desktop\UPSC\models\kidney_model.joblib
